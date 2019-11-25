@@ -1,0 +1,2 @@
+C:\_projects\LincolnFront\obj\Debug\LincolnFront.njsprojAssemblyReference.cache
+C:\_projects\LincolnFront\bin\Microsoft.NodejsTools.WebRole.dll
